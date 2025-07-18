@@ -333,6 +333,13 @@ TRELLIS models and the majority of the code are licensed under the [MIT License]
 
 - [**Modified Flexicubes**](https://github.com/MaxtirError/FlexiCubes): In this project, we used a modified version of [Flexicubes](https://github.com/nv-tlabs/FlexiCubes) to support vertex attributes. This modified version is licensed under the [LICENSE](https://github.com/nv-tlabs/FlexiCubes/blob/main/LICENSE.txt).
 
+<!-- Comparisons -->
+- [**Shap-E**](https://github.com/openai/shap-e)
+- [**LGM**](https://github.com/3DTopia/LGM)
+- [**InstantMesh**](https://github.com/TencentARC/InstantMesh)
+- [**3DTopia-XL**](https://github.com/3DTopia/3DTopia-XL)
+- [**Ln3Diff**](https://github.com/NIRVANALAN/LN3Diff): provides [evaluators](https://github.com/NIRVANALAN/LN3Diff/blob/main/evaluations/evaluator.py) as FID, sFID, Precision, Recall, and Inception Score.
+- [**GaussianCube**](https://github.com/GaussianCube/GaussianCube)
 
 <!-- Citation -->
 ## 📜 Citation
